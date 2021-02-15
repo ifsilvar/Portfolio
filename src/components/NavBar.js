@@ -11,7 +11,7 @@ export default function NavBar() {
                 Home Link
                 </NavLink>
             </nav>
-            <div className="inline-flex py-3 px-3 ">
+            <div className="inline-flex py-3 px-3">
                 <SocialIcon url="https://www.linkedin.com/in/ivan-f-silvar/" className="mr-4" target="_blank" fgColor="fff" style={{ height: 35, width: 35 }} />
             </div>
         </div>
