@@ -1,23 +1,27 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.43afba4f.chunk.css",
-    "main.js": "/portfolio/static/js/main.a394798f.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.a394798f.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.66763aca.chunk.css",
+    "main.js": "/portfolio/static/js/main.be6f4876.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.be6f4876.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.a7ce4537.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.a7ce4537.js.map",
-    "static/js/2.685f4625.chunk.js": "/portfolio/static/js/2.685f4625.chunk.js",
-    "static/js/2.685f4625.chunk.js.map": "/portfolio/static/js/2.685f4625.chunk.js.map",
+    "static/js/2.65614d91.chunk.js": "/portfolio/static/js/2.65614d91.chunk.js",
+    "static/js/2.65614d91.chunk.js.map": "/portfolio/static/js/2.65614d91.chunk.js.map",
     "static/js/3.e0e35e48.chunk.js": "/portfolio/static/js/3.e0e35e48.chunk.js",
     "static/js/3.e0e35e48.chunk.js.map": "/portfolio/static/js/3.e0e35e48.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "static/css/main.43afba4f.chunk.css.map": "/portfolio/static/css/main.43afba4f.chunk.css.map",
-    "static/js/2.685f4625.chunk.js.LICENSE.txt": "/portfolio/static/js/2.685f4625.chunk.js.LICENSE.txt",
-    "static/media/background.a37d3499.png": "/portfolio/static/media/background.a37d3499.png"
+    "static/css/main.66763aca.chunk.css.map": "/portfolio/static/css/main.66763aca.chunk.css.map",
+    "static/js/2.65614d91.chunk.js.LICENSE.txt": "/portfolio/static/js/2.65614d91.chunk.js.LICENSE.txt",
+    "static/media/background.a37d3499.png": "/portfolio/static/media/background.a37d3499.png",
+    "static/media/leafimg.d51e36f8.png": "/portfolio/static/media/leafimg.d51e36f8.png",
+    "static/media/portfoliopic.4d0f8987.png": "/portfolio/static/media/portfoliopic.4d0f8987.png",
+    "static/media/quizicon.11d47e81.png": "/portfolio/static/media/quizicon.11d47e81.png",
+    "static/media/weathericon.a6f4a57d.png": "/portfolio/static/media/weathericon.a6f4a57d.png"
   },
   "entrypoints": [
     "static/js/runtime-main.a7ce4537.js",
-    "static/js/2.685f4625.chunk.js",
-    "static/css/main.43afba4f.chunk.css",
-    "static/js/main.a394798f.chunk.js"
+    "static/js/2.65614d91.chunk.js",
+    "static/css/main.66763aca.chunk.css",
+    "static/js/main.be6f4876.chunk.js"
   ]
 }
