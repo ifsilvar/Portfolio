@@ -12,7 +12,7 @@ export default function About() {
             <div className="card">
                 <div className="sm:flex-shrink-0">
                     <img src={Project1} alt="proj1" className="w-full h-full object-cover"/>
-                    </div>
+                </div>
                 <div className="m-4">
                     <span className="font-bold ">This Project</span>
                     <span className="block text-gray-500 text-sm">Project Description</span>
@@ -20,15 +20,19 @@ export default function About() {
             </div>
 
             <div className="card">
-                <img src={Quiz} alt="proj2" className="w-full h-full object-cover"/>
-                <div className="m-4">
-                    <span className="font-bold">This Project</span>
-                    <span className="block text-gray-500 text-sm">Project Description</span>
+                <div className="sm:flex-shrink-0">
+                    <img src={Quiz} alt="proj2" className="w-full h-full object-cover"/>
                 </div>
+                    <div className="m-4">
+                        <span className="font-bold">This Project</span>
+                        <span className="block text-gray-500 text-sm">Project Description</span>
+                    </div>
             </div>
 
             <div className="card">
-                <img src={Weather} alt="proj3" className="w-full h-full  object-cover"/>
+                <div className="sm:flex-shrink-0">
+                    <img src={Weather} alt="proj3" className="w-full h-full  object-cover"/>
+                </div>
                 <div className="m-4">
                     <span className="font-bold">This project</span>
                     <span className="block text-gray-500 text-sm">Project Description</span>
@@ -36,7 +40,9 @@ export default function About() {
             </div>
 
             <div className="card">
-                <img src="https://via.placeholder.com/50" alt="proj3" className="w-full h-full  object-cover"/>
+                <div className="sm:flex-shrink-0">
+                    <img src="https://via.placeholder.com/50" alt="proj3" className="w-full h-full  object-cover"/>
+                </div>
                 <div className="m-4">
                     <span className="font-bold">This project</span>
                     <span className="block text-gray-500 text-sm">Project Description</span>
