@@ -2,10 +2,11 @@ import React from "react";
 
 export default function About() {
     return (
-        <div className="min-h-screen bg-gray-100 py-6 flex flex-col justify-center sm:py-12">
-  <div className="relative py-3 sm:max-w-xl sm:mx-auto">
+// container div
+<div className="min-h-screen bg-gray-100 py-6 flex flex-col justify-center sm:py-12 border-2 border-indigo-600">
+  <div className="relative py-3 sm:max-w-xl sm:mx-auto border-2 border-fuchsia-600">
     <div className="absolute inset-0 bg-gradient-to-r from-cyan-400 to-light-blue-500 shadow-lg transform -skew-y-6 sm:skew-y-0 sm:-rotate-6 sm:rounded-3xl"></div>
-    <div className="relative px-4 py-10 bg-white shadow-lg sm:rounded-3xl sm:p-20">
+    {/* <div className="relative px-4 py-10 bg-white shadow-lg sm:rounded-3xl sm:p-20">
       <div className="max-w-md mx-auto">
         <div>
           <img src="/img/logo.svg" className="h-7 sm:h-8" />
@@ -55,7 +56,7 @@ export default function About() {
           </div>
         </div>
       </div>
-    </div>
+    </div> */}
   </div>
 </div>
         )
