@@ -9,13 +9,13 @@ export default function Jumbotron() {
         //     <h1 className="text-6xl text-blue-600 font-bold leading-none ">Hello I'm Ivan</h1>
         // </section>
         // </div>
-        <div className="">
-            <div className="relative flex flex-wrap content-center ">
-                <img src={image} alt="homescreen background" className="w-full h-96 object-cover" />
-                    <div className="absolute">
+        <div className="mx-auto">
+
+                <img src={image} alt="homescreen background" className="w-full h-96 object-cover absolute" />
+                    <div className="relative">
                         <span className="text-6xl text-blue-600 font-bold mx-auto">Hello I'm Ivan</span>
                     </div>
-            </div>
+
         </div>
     )
 }

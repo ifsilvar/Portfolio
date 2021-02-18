@@ -7,7 +7,7 @@ import Projects from "../components/Projects"
 
 export default function Home() {
     return (
-    <main className="">
+    <main className="bg-navy">
         <NavBar />
         <Jumbotron />
         <About />

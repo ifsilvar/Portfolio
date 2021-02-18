@@ -73,7 +73,11 @@ module.exports = {
       pulse: 'pulse 2s cubic-bezier(0.4, 0, 0.6, 1) infinite',
       bounce: 'bounce 1s infinite',
     },
-    backgroundColor: (theme) => theme('colors'),
+    backgroundColor: (theme) => ({
+      ...theme('colors'),
+      'danger': '#e3342f',
+      'navy': '#06143d'
+    }),
     backgroundImage: {
       none: 'none',
       'gradient-to-t': 'linear-gradient(to top, var(--tw-gradient-stops))',
