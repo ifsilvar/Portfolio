@@ -7,7 +7,7 @@ export default function NavBar() {
     <header className="bg-navy">
         <div className="container mx-auto flex justify-between">
             <nav className="flex">
-                <NavLink to="/" exact className="inline-flex items-center py-3 px-3 mr-4 text-red-100 hover:text-green-800 text-4xl font-bold tracking-widest">
+                <NavLink to="/" exact className="inline-flex items-center py-3 px-3 mr-4 text-gray-100 hover:text-green-800 text-4xl font-bold tracking-widest">
                 Home Link
                 </NavLink>
             </nav>

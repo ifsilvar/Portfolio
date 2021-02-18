@@ -19,7 +19,7 @@ export default function About() {
                 </div>
             </div>
 
-            <div className="card h-50 w-50">
+            <div className="card">
                 <img src={Quiz} alt="proj2" className="w-full h-full object-cover"/>
                 <div className="m-4">
                     <span className="font-bold">This Project</span>
