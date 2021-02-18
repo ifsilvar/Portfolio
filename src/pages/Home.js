@@ -3,6 +3,7 @@ import Jumbotron from "../components/Jumbotron"
 import About from "../components/About"
 import Card from "../components/Card"
 import NavBar from "../components/NavBar.js"
+import Projects from "../components/Projects"
 
 export default function Home() {
     return (
@@ -10,6 +11,7 @@ export default function Home() {
         <NavBar />
         <Jumbotron />
         <About />
+        <Projects />
         <Card />
     </main>
         )

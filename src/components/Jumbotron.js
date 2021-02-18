@@ -12,7 +12,7 @@ export default function Jumbotron() {
         <div className="">
             <div className="relative flex flex-wrap content-center ">
                 <img src={image} alt="homescreen background" className="w-full h-96 object-cover" />
-                    <div className="absolute ">
+                    <div className="absolute">
                         <span className="text-6xl text-blue-600 font-bold mx-auto">Hello I'm Ivan</span>
                     </div>
             </div>
