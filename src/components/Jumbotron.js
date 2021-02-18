@@ -1,21 +1,13 @@
 import React from "react";
-import image from "../background.png"
+import image from "../images/background.png"
 
 export default function Jumbotron() {
     return (
-        // <div className="container h-3/6 mx-auto flex justify-around pb-64">
-        // <img src={image} alt="homescreen background" className="absolute object-cover h-3/6 w-screen" />
-        // <section className="relative  pt-64">
-        //     <h1 className="text-6xl text-blue-600 font-bold leading-none ">Hello I'm Ivan</h1>
-        // </section>
-        // </div>
-        <div className="mx-auto">
-
-                <img src={image} alt="homescreen background" className="w-full h-96 object-cover absolute" />
-                    <div className="relative">
-                        <span className="text-6xl text-blue-600 font-bold mx-auto">Hello I'm Ivan</span>
-                    </div>
-
+        <div className="min-w-full h-64 relative">
+            <div className="absolute inset-0 bg-cover bg-center z-0">
+            <img src={image} alt="homescreen background" className="object-cover h-64 min-w-full" />
+            </div>
+            <div className="opacity-0 hover:opacity-100 duration-300 absolute inset-0 z-10 flex justify-center items-center text-6xl text-white font-semibold shadow-md">Greetings I'm Ivan</div>
         </div>
     )
 }
