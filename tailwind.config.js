@@ -108,6 +108,7 @@ module.exports = {
     },
     borderColor: (theme) => ({
       ...theme('colors'),
+      'navy': '#06143d',
       DEFAULT: theme('colors.gray.200', 'currentColor'),
     }),
     borderOpacity: (theme) => theme('opacity'),
@@ -610,7 +611,10 @@ module.exports = {
       1: '1',
       2: '2',
     },
-    textColor: (theme) => theme('colors'),
+    textColor: (theme) => ({
+      ...theme('colors'),
+      'navy': '#06143d'
+    }),
     textOpacity: (theme) => theme('opacity'),
     transformOrigin: {
       center: 'center',
