@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.48ca9353.chunk.css",
-    "main.js": "/portfolio/static/js/main.7f0a590d.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.7f0a590d.chunk.js.map",
-    "runtime-main.js": "/portfolio/static/js/runtime-main.51de5781.js",
-    "runtime-main.js.map": "/portfolio/static/js/runtime-main.51de5781.js.map",
-    "static/js/2.92519810.chunk.js": "/portfolio/static/js/2.92519810.chunk.js",
-    "static/js/2.92519810.chunk.js.map": "/portfolio/static/js/2.92519810.chunk.js.map",
-    "static/js/3.d7aec3b5.chunk.js": "/portfolio/static/js/3.d7aec3b5.chunk.js",
-    "static/js/3.d7aec3b5.chunk.js.map": "/portfolio/static/js/3.d7aec3b5.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.6c32059c.chunk.css",
+    "main.js": "/portfolio/static/js/main.7dbca6bc.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.7dbca6bc.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.c84d48ee.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.c84d48ee.js.map",
+    "static/js/2.a6927163.chunk.js": "/portfolio/static/js/2.a6927163.chunk.js",
+    "static/js/2.a6927163.chunk.js.map": "/portfolio/static/js/2.a6927163.chunk.js.map",
+    "static/js/3.1c17fb2b.chunk.js": "/portfolio/static/js/3.1c17fb2b.chunk.js",
+    "static/js/3.1c17fb2b.chunk.js.map": "/portfolio/static/js/3.1c17fb2b.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "static/css/main.48ca9353.chunk.css.map": "/portfolio/static/css/main.48ca9353.chunk.css.map",
-    "static/js/2.92519810.chunk.js.LICENSE.txt": "/portfolio/static/js/2.92519810.chunk.js.LICENSE.txt",
+    "static/css/main.6c32059c.chunk.css.map": "/portfolio/static/css/main.6c32059c.chunk.css.map",
+    "static/js/2.a6927163.chunk.js.LICENSE.txt": "/portfolio/static/js/2.a6927163.chunk.js.LICENSE.txt",
     "static/media/CPP-Logo.da006011.png": "/portfolio/static/media/CPP-Logo.da006011.png",
     "static/media/Lean-6.5d787f5a.png": "/portfolio/static/media/Lean-6.5d787f5a.png",
     "static/media/UCI-Logo.d15aff8f.png": "/portfolio/static/media/UCI-Logo.d15aff8f.png",
@@ -27,9 +27,9 @@
     "static/media/weathericon.a6f4a57d.png": "/portfolio/static/media/weathericon.a6f4a57d.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.51de5781.js",
-    "static/js/2.92519810.chunk.js",
-    "static/css/main.48ca9353.chunk.css",
-    "static/js/main.7f0a590d.chunk.js"
+    "static/js/runtime-main.c84d48ee.js",
+    "static/js/2.a6927163.chunk.js",
+    "static/css/main.6c32059c.chunk.css",
+    "static/js/main.7dbca6bc.chunk.js"
   ]
 }
