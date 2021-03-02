@@ -10,7 +10,7 @@ export default function Jumbotron() {
             </div>
             {/* opacity-0 hover:opacity-100 duration-300 */}
             <div className="absolute inset-0 z-10 flex justify-center items-center text-6xl text-white font-semibold">
-                <text className="textShadow">Greetings I'm Ivan</text>
+                <text className="textShadow text-center">Greetings I'm Ivan</text>
             </div>
         </div>
     )

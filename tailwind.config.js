@@ -76,7 +76,9 @@ module.exports = {
     backgroundColor: (theme) => ({
       ...theme('colors'),
       'danger': '#e3342f',
-      'navy': '#06143d'
+      'navy': '#06143d',
+      'navy-400': '#0a2166',
+      'linkedin-blue': '#0072b1'
     }),
     backgroundImage: {
       none: 'none',
@@ -613,7 +615,8 @@ module.exports = {
     },
     textColor: (theme) => ({
       ...theme('colors'),
-      'navy': '#06143d'
+      'navy': '#06143d',
+      'linkedin-blue': '#0072b1'
     }),
     textOpacity: (theme) => theme('opacity'),
     transformOrigin: {
