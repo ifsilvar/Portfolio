@@ -34,7 +34,7 @@ export default function About() {
                         <a href="https://ifsilvar.github.io/Homework4/">
                         <span className="font-bold hover:underline">Javascript Quiz</span>
                         </a>
-                        <span className="block text-gray-500 text-sm">I created this simple javascript quiz as a homwork assignment. Being one of my first javascript projects, I practiced arrays, on click events, functions, and intervals. Future improvements include a highscore board and store scored to local storage.</span>
+                        <span className="block text-gray-500 text-sm">I created this simple javascript quiz to practice javascript. Being one of my first javascript projects, I practiced arrays, on click events, functions, and intervals. Future improvements include a highscore board and store scored to local storage.</span>
                     </div>
             </div>
 
